@@ -1,0 +1,6 @@
+framework module Pods_RxCountries {
+  umbrella header "Pods-RxCountries-umbrella.h"
+
+  export *
+  module * { export * }
+}
